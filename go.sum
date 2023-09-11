@@ -1,4 +1,6 @@
 github.com/BurntSushi/toml v1.3.2 h1:o7IhLm0Msx3BaB+n3Ag7L8EVlByGnpq14C4YWiu/gL8=
 github.com/BurntSushi/toml v1.3.2/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbicEuybxQ=
+github.com/stevohuncho/GoFile v1.0.0 h1:8rG/ccBH0G3R5wr4ZUzkYuoyWp9yeLVRwmqhur89zQ8=
+github.com/stevohuncho/GoFile v1.0.0/go.mod h1:mHwsTUtXeIIWtwDKNZQLKKAnvsLkbyfR1cHnTGnCVqg=
 gitlab.com/tesla-scripts/go-utils v0.0.0-20230905194905-341e819fe02a h1:GTimv5lTP5hfS5Swu/lad4RAxYnRuw6jEHDPzhsrye4=
 gitlab.com/tesla-scripts/go-utils v0.0.0-20230905194905-341e819fe02a/go.mod h1:Kt1cmdnc+07qVvJfWoOkodNCpCyrR5vKFMadHJf4Exo=
